@@ -1,4 +1,4 @@
-# Photo GAllery Portfolio
+# Photo Gallery Portfolio
 This is a simple Streamlit web app that showcase a personal photo gallery.
 
 ## Features
